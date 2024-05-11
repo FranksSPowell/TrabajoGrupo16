@@ -57,13 +57,20 @@ Archivo PKL
 https://drive.google.com/drive/folders/1GyJZ7m6oZS7Nu_WE_AQfjqDd7G929j26?usp=sharing
 
 
-## Uso
+## Uso SEO
 
 Para ejecutar el sistema de SEO:
 
 1. Instala las dependencias con `pip install -r requirements.txt`.
 2. Configura las variables necesarias
 3. Ejecuta los scripts correspondientes.
+
+## Uso RECOMENDADOR
+
+Para ejecutar el sistema de SEO:
+
+1. Configura las variables necesarias
+2. Ejecuta los scripts correspondientes.
 
 ## Contribución
 
